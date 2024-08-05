@@ -1,0 +1,9 @@
+streamlit
+pandas
+nltk
+vaderLexicon  # Downloaded by nltk.download('vader_lexicon') in your code
+youtube-transcript-api
+google-api-python-client
+colorama
+plotly
+transformers
