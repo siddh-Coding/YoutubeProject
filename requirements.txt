@@ -7,3 +7,4 @@ colorama
 plotly
 transformers
 tensorflow
+matplotlib
